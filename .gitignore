@@ -3,3 +3,5 @@
 Cargo.lock
 data/
 *.so
+.venv
+__pycache__
